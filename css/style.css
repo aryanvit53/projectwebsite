@@ -219,12 +219,13 @@ footer{
 .btn{
     padding: 6px 20px;
     border: 2px solid white;
-    background-color: brown;
+    background-color: rgb(18, 68, 233);
     color: white;
     margin: 17px;
     font-size: 1.5rem;
     border-radius: 10px;
     cursor:pointer;
+    text-emphasis-color: white;
 }
 
 .center{
